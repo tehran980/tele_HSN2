@@ -230,7 +230,7 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/tehran980/tele_HSN2
 
 Admins
-@imandaneshi [Developer]
+@tehran98 [Developer]
 @FloWeD [Developer]
 
 ]],
